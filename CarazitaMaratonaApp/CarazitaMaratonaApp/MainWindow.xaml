@@ -1,0 +1,22 @@
+﻿<Window x:Class="CarazitaMaratonaApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BozziDiscografiaApp"
+        mc:Ignorable="d"
+        Title="Discografia" Height="650" Width="800">
+    <StackPanel>
+        <Button x:Name="BtnLeggiDaFile" Content="Leggi da file" Click="BtnLeggiDaFile_Click"/>
+        <DataGrid x:Name="DgElencoBrani" Height="300" />
+        <Label Content="Inserisci Nome Atleta"/>
+        <TextBox x:Name="TxtTitolo" />
+        <Label x:Name="LblArtista" />
+        <Button x:Name="BtnCercaArtista" Content="Cerca Atleta" Click="BtnCercaArtista_Click"/>
+        <Label Content="Inserisci la Città in cui si è corsa la gara"/>
+        <TextBox x:Name="TxtAlbum" />
+        <Label x:Name="LblNumBrani" />
+        <Label x:Name="LblDurata" />
+        <Button x:Name="BtnDurata" Content="Calcola durata totale" Click="BtnDurata_Click"/>
+    </StackPanel>
+</Window>
