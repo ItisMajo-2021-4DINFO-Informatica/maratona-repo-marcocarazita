@@ -3,3 +3,8 @@ C:\Users\Utente\Desktop\4di-2022-password-manager-marcocarazita\CarazitaMaratona
 C:\Users\Utente\Desktop\4di-2022-password-manager-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\Utente\Desktop\4di-2022-password-manager-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\CarazitaMaratonaApp_MarkupCompile.cache
 C:\Users\Utente\Desktop\4di-2022-password-manager-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\CarazitaMaratonaApp_MarkupCompile.lref
+C:\Users\Utente\Desktop\maratona-repo-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\CarazitaMaratonaApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\maratona-repo-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Utente\Desktop\maratona-repo-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Utente\Desktop\maratona-repo-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\CarazitaMaratonaApp_MarkupCompile.cache
+C:\Users\Utente\Desktop\maratona-repo-marcocarazita\CarazitaMaratonaApp\CarazitaMaratonaApp\obj\Debug\net5.0-windows\CarazitaMaratonaApp_MarkupCompile.lref

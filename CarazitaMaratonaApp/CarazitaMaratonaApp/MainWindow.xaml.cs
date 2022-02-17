@@ -48,7 +48,7 @@ namespace CarazitaMaratonaApp
         {
             string album = TxtAlbum.Text;
             // eventualmente aggiungo un controllo sull'input
-            string numeroBrani = documenti.ContaBrani(album);
+            string numeroBrani = documenti.CittaCorsa(album);
             LblNumBrani.Content = numeroBrani;
         }
 

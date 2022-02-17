@@ -50,11 +50,11 @@ namespace CarazitaMaratonaApp
         {
             string atleta = societa + "--NON TROVATO--";
 
-            foreach (var brano in elencoDati)
+            foreach (var documento in elencoDati)
             {
-                if (documento.TitoloBrano == societa)
+                if (documento.Societa == societa)
                 {
-                    atleta = brano.NomeAtleta;
+                    atleta = documento.NomeAtleta;
                 }
             }
 

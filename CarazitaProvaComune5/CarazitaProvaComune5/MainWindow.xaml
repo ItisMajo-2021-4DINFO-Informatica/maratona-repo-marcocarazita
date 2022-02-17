@@ -1,0 +1,24 @@
+﻿<Window x:Class="CarazitaProvaComune5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarazitaProvaComune5"
+        mc:Ignorable="d"
+        Title="Maratona" Height="550" Width="800">
+    <StackPanel>
+        <Button x:Name="BtnLeggiDaFile" Content="Leggi da file" Click="BtnLeggiDaFile_Click"/>
+        <DataGrid x:Name="DgElencoAltleti" Height="159" />
+        <Label Content="Inserisci Nome Atleta"/>
+        <TextBox x:Name="TxtAtleta" />
+        <Label Content="Inserisci Città"/>
+        <TextBox x:Name="TxtCitta" />
+        <Label x:Name="LblTempoImp" />
+        <Button x:Name="BtnTempo" Content="Visualizza il Tempo Impiegato" Click="BtnTempo_Click"/>
+        <Label x:Name="LblTempi" Height="76" />
+        <Label Content="Inserisci Città"/>
+        <TextBox x:Name="TxtCittaRicerca" />
+        <Button x:Name="BtnVisualAtleti" Content="Visualizza Atleti Partecipanti" Click="BtnVisualAtleti_Click"/>
+        <Label x:Name="LblAtletiPartecipanti" Height="76" />
+    </StackPanel>
+</Window>

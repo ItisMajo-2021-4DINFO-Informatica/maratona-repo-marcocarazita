@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-marcocarazita\\CarazitaMaratonaApp\\CarazitaMaratonaApp\\CarazitaMaratonaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\maratona-repo-marcocarazita\\CarazitaMaratonaApp\\CarazitaMaratonaApp\\CarazitaMaratonaApp.csproj",
       "projectName": "CarazitaMaratonaApp",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-marcocarazita\\CarazitaMaratonaApp\\CarazitaMaratonaApp\\CarazitaMaratonaApp.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\maratona-repo-marcocarazita\\CarazitaMaratonaApp\\CarazitaMaratonaApp\\CarazitaMaratonaApp.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-marcocarazita\\CarazitaMaratonaApp\\CarazitaMaratonaApp\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\maratona-repo-marcocarazita\\CarazitaMaratonaApp\\CarazitaMaratonaApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
